@@ -168,7 +168,7 @@ html {
     width: 3.8rem;
     height: 2rem;
     position: absolute;
-    top: 1.64rem;
+    top: 0.64rem;
     left:0.03rem;
     opacity: 0;
 }
@@ -183,7 +183,7 @@ html {
 .slide2 .sports-box:nth-child(3){
     height: 0.76rem;
     position: absolute;
-    top: 2.68rem;
+    top: 1.68rem;
     left: 0.98rem;
     opacity: 0;
 }
@@ -203,7 +203,7 @@ html {
     width: 3.8rem;
     height: 2rem;
     position: absolute;
-    bottom: 1.64rem;
+    bottom: 0.64rem;
     right:0.03rem;
     opacity: 0;
 }
@@ -218,7 +218,7 @@ html {
 }
 .slide2 .information{
     position: absolute;
-    top: 3.78rem;
+    top: 2.78rem;
     left: 0;
 }
 .slide2 .information li{
@@ -280,7 +280,7 @@ html {
     width: 2.78rem;
     height: 2.78rem;
     position: absolute;
-    top: 3.98rem;
+    top: 2.98rem;
     right: 0.4rem;
     border-radius: 50%;
     opacity: 0;
@@ -306,7 +306,7 @@ html {
 }
 .slide2 .aphorism:nth-child(7){
     position: absolute;
-    top: 0.78rem;
+    top: 0.58rem;
     right: 0.34rem;
     font-size: 0.5rem;
     color: cadetblue;
@@ -318,7 +318,7 @@ html {
 }
 .slide2 .aphorism:nth-child(8){
     position: absolute;
-    bottom: 0.78rem;
+    bottom: 0.58rem;
     left: 0.34rem;
     font-size: 0.5rem;
     color: cadetblue;
@@ -477,8 +477,8 @@ html {
     font-size: 0.36rem;
     text-align: center;
     color: #fff;
-    right: 1rem;
-    bottom: 4rem;
+    right: 0.5rem;
+    bottom: 3.5rem;
     padding-top: 0.5rem;
     font-weight: 700;
     opacity: 0;
@@ -570,7 +570,7 @@ html {
     -webkit-animation:bounceInDown 1s ease 1.6s 1 both;
     animation:bounceInDown 1s ease 1.6s 1 both;
 }
-.slide3 .skill li:nth-child(8){
+.slide3 .skill li:nth-child(7){
     width: 1.38rem;
     height: 1.38rem;
     line-height:1.38rem ;
@@ -580,7 +580,7 @@ html {
     transform: rotateZ(0deg);
     opacity: 0;
 }
-#page3 .skill li:nth-child(8){
+#page3 .skill li:nth-child(7){
     -webkit-animation:lightSpeedIn 1s ease 1.2s 1 both;
     animation:lightSpeedIn 1s ease 1.2s 1 both;
 
@@ -600,9 +600,9 @@ html {
     animation:fadeInLeft 1s ease 1.2s 1 both;
 }
 .slide3 .skill li:nth-child(5){
-    width: 1.66rem;
-    height: 0.88rem;
-    left: 0.58rem;
+    width: 2.66rem;
+    height: 0.68rem;
+    left: 0.38rem;
     top: 0.56rem;
     z-index: 16;
     opacity: 0;
@@ -612,7 +612,7 @@ html {
     animation:fadeInLeft 1s ease 1.8s 1 both;
 
 }
-.slide3 .skill li:nth-child(7){
+/*.slide3 .skill li:nth-child(7){
     width: 2.66rem;
     height: 0.68rem;
     left: 2.78rem;
@@ -623,7 +623,7 @@ html {
 #page3 .skill li:nth-child(7){
     -webkit-animation:lightSpeedIn 1s ease 1.2s 1 both;
     animation:lightSpeedIn 1s ease 1.2s 1 both;
-}
+}*/
 
 
 
@@ -831,11 +831,11 @@ html {
 }
 .slide5 img{
     position: absolute;
-    left: 1.21rem;
-    top: 5.3rem;
+    left: 1.57rem;
+    top: 5.8rem;
     display: block;
-    width: 4rem;
-    height: 4rem;
+    width: 3rem;
+    height: 3rem;
     background-size: cover;
     opacity: 0;
 }
